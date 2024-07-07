@@ -12,4 +12,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThunPao&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunPao&show_icons=true&theme=radical)
 
-Known & Learning Languages: PHP, JavaScript, TypeScript, C#
+Known Languages: PHP, JavaScript, TypeScript
