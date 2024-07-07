@@ -3,10 +3,9 @@ Welcome to my profile
 
 🌱 I’m currently learning TypeScript
 
-Languages I Know / Learning: PHP, JavaScript, TypeScript, C#
-
 📫 How to reach me: Banoffee
 
+Languages I Know / Learning: PHP, JavaScript, TypeScript, C#
 
 # Stats
 
