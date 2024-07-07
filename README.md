@@ -1,6 +1,6 @@
 ## Welcome to my profile👋
 
-🌱 I’m currently learning TypeScript Frameworks
+🌱 I’m currently learning TypeScript Web Frameworks
 
 📫 How to reach me: Banoffee
 
