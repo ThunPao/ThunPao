@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning TypeScript Web Frameworks
 
+📧Work E-Mail: kpza1360@gmail.com
+
 📫 How to reach me: Banoffee
 
 
