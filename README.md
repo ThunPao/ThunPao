@@ -1,11 +1,10 @@
 ## Welcome to my profile👋
 
-🌱 I’m currently learning TypeScript Web Frameworks
+🌱 FrontEnd / Full Stack Developer
+
+💻 NextJS, SvelteKit
 
 📧Work E-Mail: kpza1360@gmail.com
-
-📫 How to reach me: Banoffee
-
 
 
 # Stats
